@@ -1,5 +1,6 @@
 # Kademics
-Trabalho desenvolvido no Projeto Integrador da unifacisa
+Trabalho desenvolvido na matéria de Projeto Integrador da Unifacisa.
+Proposta simples de um programa de academia onde é possível registrar alunos, professores, treinos e atribuir treinos aos alunos.
 
 Aprendizados obtidos:                               
 -Melhor uso do framework SpringBoot e extenções como JPA e Lombok.                               
