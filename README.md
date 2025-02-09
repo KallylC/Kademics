@@ -1,5 +1,5 @@
 # Kademics
-Trabalho desenvolvido na matéria de Projeto Integrador da Unifacisa.
+Trabalho desenvolvido na matéria de Projeto Integrador da Unifacisa.                              
 Proposta simples de um programa de academia onde é possível registrar alunos, professores, treinos e atribuir treinos aos alunos.
 
 Aprendizados obtidos:                               
