@@ -4,10 +4,15 @@ Trabalho desenvolvido no Projeto Integrador da unifacisa
 Aprendizados obtidos: 
 
 -Melhor uso do framework SpringBoot e extenções como JPA e Lombok.
+
 -Estrutura MVC (Model-View-Controller).
+
 -Requisições HTTP via API REST.
+
 -PostgreSQL como database.
+
 -Ferramentas de testes como Postman e PgAdmin.
+
 
 
 ![image](https://github.com/user-attachments/assets/cbcbc965-262e-42c3-9339-d893d42e3302)
