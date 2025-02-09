@@ -2,7 +2,6 @@
 Trabalho desenvolvido no Projeto Integrador da unifacisa
 
 Aprendizados obtidos: 
-
 -Melhor uso do framework SpringBoot e extenções como JPA e Lombok.
 
 -Estrutura MVC (Model-View-Controller).
